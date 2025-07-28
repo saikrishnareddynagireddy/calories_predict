@@ -1,0 +1,4 @@
+ id , name , salary 
+ 101 , sai ,96000
+ 102 , jaanu ,100000
+ 103 , krishna ,70000
